@@ -1,1 +1,1 @@
-# Excel2SQL
+Repository takes excel (or csv) files, performs matrix operations, and uses thermodynamics info to predict reactions and outcomes. This will create "phase diagrams" and P-T-t projections for CO2 emissions
