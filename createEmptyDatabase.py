@@ -26,7 +26,7 @@ def create_connection(db_file):
         conn.close()
  
 if __name__ == '__main__':
-    create_connection("mineralEndmembers.db")
+        create_connection("mineralEndmembers.db")
 
 
 
